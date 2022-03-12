@@ -1,0 +1,37 @@
+*{
+	padding:0;
+	margin:0;
+
+}
+body{
+	background:#5079ba;
+}
+h1{
+	text-align:center;
+	background:#283a9c ;
+	color:white;
+	padding: 30px
+}
+nav ul{
+	background-color:#10173d ;
+	width:100%;
+	list-style-type: none;
+	text-align: center;
+}
+nav li{
+	display:inline-flex;
+}
+nav a{
+	text-decoration: none;
+	color:white;
+	padding:10px;
+	width:150px;
+}
+h2{
+	width:60%;
+	margin: 0px auto;
+	font-size: 200%;
+	margin-top: 80px;
+	color:#24306e;
+	text-align: center;
+}

@@ -1,0 +1,19 @@
+*{
+	padding: 0;
+	margin: 0;
+}
+body{
+	background: #9cf7f3;
+}
+h1{
+	text-align: center;
+	background: #4d54e8;
+	color: #141a29;
+	padding: 30px;
+}
+h2{
+	font size: 300%;
+	border: 3px solid#4d54e8 ;
+	text-align: center;
+	width: 70%;
+}
